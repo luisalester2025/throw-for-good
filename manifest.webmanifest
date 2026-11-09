@@ -1,0 +1,11 @@
+{
+  "name": "Throw for Good",
+  "short_name": "Throw for Good",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0B2B53",
+  "theme_color": "#0B2B53",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
